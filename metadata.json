@@ -1,0 +1,11 @@
+{
+  "name": "Cartable Numérique Éducatif",
+  "description": "Plateforme éducative tout-en-un pour élèves, enseignants, parents et administrateurs avec cours multimédias, révision espacée adaptative, gestion des devoirs, suivi des compétences et tuteur IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
